@@ -1,4 +1,4 @@
-# DSI-Project
+# Experiments on DSI approach
 
 ![Cover](/assets/Project_cover.png)
 
